@@ -26,6 +26,9 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#php-repositories)
 [![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#java-repositories)
 
+## Wikis
+---
+[Enabling Version Control in Power BI](https://github.com/ItaSsa/ItaSsa.wiki.git)
 
 ## Projects
 ---
