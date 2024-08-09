@@ -39,14 +39,13 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ---
 ## PowerBI Repositories
 ---
+
 [![pbi_proj01_benchmarking Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=pbi_proj01_benchmarking&theme=highcontrast)](https://github.com/ItaSsa/pbi_proj01_benchmarking)
 
 ---
 ## Azure Repositories
 ---
-[![AzureDatabricks_formula1_card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1&theme=highcontrast)](https://github.com/ItaSsa/AzureDatabricks_formula1)
-
-[![AzureDataIngestionFromOnpremiseSqlCard](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql&theme=highcontrast)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
+[![AzureDatabricks_formula1_card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1&theme=highcontrast)](https://github.com/ItaSsa/AzureDatabricks_formula1)            [![AzureDataIngestionFromOnpremiseSqlCard](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql&theme=highcontrast)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
 
 ---
 ## PHP Repositories
