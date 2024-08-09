@@ -3,7 +3,7 @@
 ## <p align="center">  *Data & Analytics Engineer* </p> 
 
 > <p style="text-align: justify "> Welcome to my personal portfolio repository! 👋 <br>
->    Here you will find some projects that demonstrate my skills, expertise and passion in Data Engineering , Data Analytics,  Data visualization, Business intelligence . </p>
+>    Here you will find some projects that demonstrate my skills, expertise and passion about <strong>Data Engineering</strong> , <strong>Data Analytics</strong> and also <strong>Software Engineering</strong> . </p>
 <br>
 
 ### About me
