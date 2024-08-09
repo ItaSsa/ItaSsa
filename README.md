@@ -16,34 +16,42 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ### Skills
 ---
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#python-repositories)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](#azure-repositories)
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#azure-repositories)
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](#powerbi-repositories)
 ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#php_repositories)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#php_repositories)
-[![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#java_repositories)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#php-repositories)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#php-repositories)
+[![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#java-repositories)
 
-### Projects  
+### <center>Projects</center>
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaSsa&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaSsa&hide_progress=true&theme=highcontrast)
 
 #### Python Repositories
 ----
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=GettingSomeAzureDevOpsOrganizations&theme=radical)](https://github.com/ItaSsa/GettingSomeAzureDevOpsOrganizations)
+[![GettingSomeAzureDevOpsOrganizations Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=GettingSomeAzureDevOpsOrganizations&theme=highcontrast)](https://github.com/ItaSsa/GettingSomeAzureDevOpsOrganizations)
 
 #### PowerBI Repositories
 ---
 
 #### Azure Repositories
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1&theme=radical)](https://github.com/ItaSsa/AzureDatabricks_formula1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql&theme=radical)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
+[![AzureDatabricks_formula1_card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1&theme=highcontrast)](https://github.com/ItaSsa/AzureDatabricks_formula1)
+
+[![AzureDataIngestionFromOnpremiseSqlCard](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql&theme=highcontrast)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
 
 
 #### PHP Repositories
 ---
 
+[![app_task_control_Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=app_task_control&theme=highcontrast)](https://github.com/ItaSsa/app_task_control)
+
+
 #### Java Repositories
 ---
+[![spring_boot_projVollmed_01_Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=spring_boot_projVollmed_01&theme=highcontrast)](https://github.com/ItaSsa/spring_boot_projVollmed_01)
+
+[![dscommerce_Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=dscommerce&theme=highcontrast)](https://github.com/ItaSsa/dscommerce)
