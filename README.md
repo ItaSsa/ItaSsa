@@ -28,7 +28,7 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 
 ## Wikis
 ---
-[Enabling Version Control in Power BI](https://github.com/ItaSsa/ItaSsa.wiki.git)
+[🪢Enabling Version Control in Power BI](https://github.com/ItaSsa/ItaSsa.wiki.git)
 
 ## Projects
 ---
