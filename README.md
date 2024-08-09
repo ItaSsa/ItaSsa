@@ -15,25 +15,28 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 
 ### Skills
 ---
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/ItaSsa/ItaSsa/edit/main/README.md#-python-repositories-)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](/github.com/ItaSsa/ItaSsa/edit/main/README.md#python-repositories)
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#azure_repos)
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]()
-![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
 
-
-### Details 
+### Projects  
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaSsa&hide_progress=true)
 
-#### <section id="python_repos"> Python Repositories </section>
+#### Python Repositories
+----
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=GettingSomeAzureDevOpsOrganizations)](https://github.com/ItaSsa/GettingSomeAzureDevOpsOrganizations)
 
 #### PowerBI Repositories
+---
 
-#### <div id="azure_repos"> Azure Repositories </section>
+#### Azure Repositories
+---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1)](https://github.com/ItaSsa/AzureDatabricks_formula1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
 
