@@ -39,6 +39,8 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ---
 ## PowerBI Repositories
 ---
+[![pbi_proj01_benchmarking Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=pbi_proj01_benchmarking&theme=highcontrast)](https://github.com/ItaSsa/pbi_proj01_benchmarking)
+
 ---
 ## Azure Repositories
 ---
