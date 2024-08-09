@@ -29,9 +29,7 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 
 ## Projects
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaSsa&hide_progress=true&theme=highcontrast)
-
+ ![Itaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaSsa&hide=contribs,prs)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaSsa&hide_progress=true)       
 ---
 ## Python Repositories
 ----
