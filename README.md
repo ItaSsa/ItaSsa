@@ -9,6 +9,7 @@
 ### About me
 ---
 [![Linkedin_Itaira](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaira-santos/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itairaest)
 <p style="text-align: justify ">  I'm a Data professional that started working with Data Modeling and SQL in 2005. In 2010, I've started working with Business Intelligence, Data Visualization and ETL and helping businesses make data-driven decisions. <br><br>
 After spending all this years working using different technologies in several business contexts, now I'm exploring Data Engineering projects that involving data ingestion in a cloud computing environment.
 I love to learn new concepts and technologies, and experiment them, as you will see here. <br><br>
@@ -25,10 +26,6 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#php-repositories)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#php-repositories)
 [![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#java-repositories)
-
-## Wikis
----
-[🪢Enabling Version Control in Power BI](https://github.com/ItaSsa/ItaSsa/wiki/Source-Control-on-Power-BI)
 
 ## Projects
 ---
