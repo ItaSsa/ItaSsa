@@ -39,8 +39,13 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ---
 ## PowerBI Repositories
 ---
+### *Click on image to open project repositoroy*
 
-[![pbi01_survei_card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=pbi_proj01_benchmarking&theme=highcontrast)](https://github.com/ItaSsa/pbi_proj01_benchmarking)
+<kbd> [![Gif_bankChurn](https://github.com/user-attachments/assets/19ef93ac-44e3-4812-975b-ea4178f034c6)](https://github.com/ItaSsa/pbi_proj02_bankChurn) </kbd>
+
+<kbd> [![gif_proj1](https://github.com/user-attachments/assets/b862e91d-dde9-44c6-b65a-ce20dab274f7)](https://github.com/ItaSsa/pbi_proj01_benchmarking)  </kbd>
+
+
 
 ---
 ## Azure Repositories
