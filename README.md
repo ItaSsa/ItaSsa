@@ -39,7 +39,7 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ---
 ## PowerBI Repositories
 ---
-#### 🔥 [See on Medium how I have implemented source control in Porwe BI](https://medium.com/@itairaest/my-experience-enabling-source-control-on-power-bi-f4b3d367b9e4)
+#### 🔥 [See on Medium how I have implemented source control in Power BI](https://medium.com/@itairaest/my-experience-enabling-source-control-on-power-bi-f4b3d367b9e4)
 #### *Click on image to open project repository*
 
 <kbd> [<img src="https://github.com/user-attachments/assets/19ef93ac-44e3-4812-975b-ea4178f034c6" alt= "Bank Churn Analysis"   width="400" title="Bank Churn Analysis"  /> ](https://github.com/ItaSsa/pbi_proj02_bankChurn) </kbd> 
