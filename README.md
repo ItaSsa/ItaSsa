@@ -42,9 +42,9 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ### [See on Medium how I have implemented source control in Porwe BI](https://medium.com/@itairaest/my-experience-enabling-source-control-on-power-bi-f4b3d367b9e4)
 ### *Click on image to open project repository*
 
-[<img src="https://github.com/user-attachments/assets/19ef93ac-44e3-4812-975b-ea4178f034c6" alt= "Bank Churn Analysis"  width="400" tile="Bank Churn Analysis" border="10" />](https://github.com/ItaSsa/pbi_proj02_bankChurn)
+[<img src="https://github.com/user-attachments/assets/19ef93ac-44e3-4812-975b-ea4178f034c6" alt= "Bank Churn Analysis"  title="Bank Churn Analysis"  style="border: 4px solid #f00; margin: 20px; border-radius: 50px;" />](https://github.com/ItaSsa/pbi_proj02_bankChurn)
 
-[<img src=https://github.com/user-attachments/assets/b862e91d-dde9-44c6-b65a-ce20dab274f7 alt= "Data Professional Survey Analysis"  width="400" title ="Data Professional Survey Analysis" border="10" />](https://github.com/ItaSsa/pbi_proj01_benchmarking)
+[<img src=https://github.com/user-attachments/assets/b862e91d-dde9-44c6-b65a-ce20dab274f7 alt= "Data Professional Survey Analysis"  width="400" title ="Data Professional Survey Analysis" border="20" />](https://github.com/ItaSsa/pbi_proj01_benchmarking)
 
 
 
