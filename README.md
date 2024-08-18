@@ -23,9 +23,9 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 [![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#azure_repositories) <br>
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](#powerbi-repositories)
 ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) <br>
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#php-repositories)
+<!--[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#php-repositories)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#php-repositories)
-[![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#java-repositories)
+[![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#java-repositories) -->
 
 ## Projects
 ---
@@ -42,6 +42,8 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 #### 🔥 [See on Medium how I have implemented source control in Power BI](https://medium.com/@itairaest/my-experience-enabling-source-control-on-power-bi-f4b3d367b9e4)
 #### *Click on image to open project repository*
 
+<kbd> [<img src="https://github.com/user-attachments/assets/5674f81b-cc90-4d50-a2f4-e7cb720b2f64" alt= "Most Streamed Spotify Songs 2023"   width="400" title="Most Streamed Spotify Songs 2023"  /> ](https://github.com/ItaSsa/pbi_proj3_mostStreamedSpotifySongs2023) </kbd> 
+
 <kbd> [<img src="https://github.com/user-attachments/assets/19ef93ac-44e3-4812-975b-ea4178f034c6" alt= "Bank Churn Analysis"   width="400" title="Bank Churn Analysis"  /> ](https://github.com/ItaSsa/pbi_proj02_bankChurn) </kbd> 
 
 <kbd> [<img src=https://github.com/user-attachments/assets/b862e91d-dde9-44c6-b65a-ce20dab274f7 alt= "Data Professional Survey Analysis"  width="400" title ="Data Professional Survey Analysis" border="20" />](https://github.com/ItaSsa/pbi_proj01_benchmarking)</kbd>
@@ -53,7 +55,7 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ---
 [![AzureDatabricks_formula1_card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1&theme=highcontrast)](https://github.com/ItaSsa/AzureDatabricks_formula1)            [![AzureDataIngestionFromOnpremiseSqlCard](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql&theme=highcontrast)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
 
----
+<!-- ---
 ## PHP Repositories
 ---
 
@@ -65,3 +67,4 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 [![spring_boot_projVollmed_01_Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=spring_boot_projVollmed_01&theme=highcontrast)](https://github.com/ItaSsa/spring_boot_projVollmed_01)
 
 [![dscommerce_Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=dscommerce&theme=highcontrast)](https://github.com/ItaSsa/dscommerce)
+-->
