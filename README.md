@@ -36,6 +36,10 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 
 [![GettingSomeAzureDevOpsOrganizations Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=GettingSomeAzureDevOpsOrganizations&theme=highcontrast)](https://github.com/ItaSsa/GettingSomeAzureDevOpsOrganizations)
 
+
+[![translatingScriptsGenai Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=translatingScriptsGenai&theme=highcontrast)](https://github.com/ItaSsa/translatingScriptsGenai)
+
+
 ---
 ## PowerBI Repositories
 ---
