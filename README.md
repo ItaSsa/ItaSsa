@@ -57,7 +57,7 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ---
 ## Azure Repositories
 ---
-[![Projects using Azure API for Python card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=py_projects&theme=highcontrast)](https://github.com/ItaSsa/py_projects)               
+            
 [![AzureDatabricks_formula1_card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=AzureDatabricks_formula1&theme=highcontrast)](https://github.com/ItaSsa/AzureDatabricks_formula1)            [![AzureDataIngestionFromOnpremiseSqlCard](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=projAzureDataIngestionFromOnpremiseSql&theme=highcontrast)](https://github.com/ItaSsa/projAzureDataIngestionFromOnpremiseSql)
 
 <!-- ---
