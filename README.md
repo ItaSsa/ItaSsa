@@ -18,6 +18,8 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 ### Skills
 ---
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#python-repositories)
+[![Doker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)](#docker-kubernetes-repositories)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](#docker-kubernetes-repositories)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](#azure-repositories)
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#azure-repositories) 
 [![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#azure_repositories) <br>
@@ -39,6 +41,10 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 
 [![translatingScriptsGenai Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=translatingScriptsGenai&theme=highcontrast)](https://github.com/ItaSsa/translatingScriptsGenai)
 
+---
+## Docker Kubernetes Repositories
+----
+[![docker_streamlit_Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaSsa&repo=docker_image_streamlit&theme=highcontrast)](https://github.com/ItaSsa/docker_image_streamlit#)
 
 ---
 ## PowerBI Repositories
