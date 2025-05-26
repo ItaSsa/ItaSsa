@@ -10,8 +10,8 @@
 ---
 [![Linkedin_Itaira](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaira-santos/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itairaest)
-<p style="text-align: justify ">  I'm a Data professional that started working with Data Modeling and SQL in 2005. In 2010, I've started working with Business Intelligence, Data Visualization and ETL and helping businesses make data-driven decisions. <br><br>
-After spending all this years working using different technologies in several business contexts, now I'm exploring Data Engineering projects that involving data ingestion in a cloud computing environment.
+<p style="text-align: justify ">  I'm a Data-driven Software engineer that started working with Data Modeling and SQL in 2005. In 2010, I've started working with Business Intelligence, Data Visualization and ETL and helping businesses make data-driven decisions. <br><br>
+After spending all this years working using different technologies in several business contexts, now I'm exploring new Data Engineering stack , AI and Python Backend development.
 I love to learn new concepts and technologies, and experiment them, as you will see here. <br><br>
 Being not affraid of challenges and having ability to adapt on new enviroments, I have had a great time as an IT professional. With hard working, but without losing my good hummor. 🤓 </p>
 
