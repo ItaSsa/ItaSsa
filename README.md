@@ -1,6 +1,6 @@
 # <p align="center"> Itaira S.F. Santos </p>
 
-## <p align="center">  *Data & Analytics Engineer* </p> 
+## <p align="center">  *Data Engineer* </p> 
 
 > <p style="text-align: justify "> Welcome to my personal portfolio repository! 👋 <br>
 >    Here you will find some projects that demonstrate my skills, expertise and passion about <strong>Data Engineering</strong> , <strong>Data Analytics</strong> and also <strong>Software Engineering</strong> . </p>
@@ -17,6 +17,8 @@ Being not affraid of challenges and having ability to adapt on new enviroments, 
 
 ### Skills
 ---
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#ruby-repositories)
+
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#python-repositories)
 [![Doker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)](#docker-kubernetes-repositories)
 <!--[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](#docker-kubernetes-repositories) -->
